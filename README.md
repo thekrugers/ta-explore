@@ -12,7 +12,7 @@ In instances where the authors of mods on CurseForse do allow them to be used in
 
 In cases (well, one at the moment, and I see there is now a modified version on Modrinth) where a mod can't be used in a Modrinth modpack, we provide links to the CurseForge pages where players can choose to download and install them manually. **Note that these will always be optional client-side mods**
 
-##Related links
+## Related links
 
 Our links
 * [Modrinth page](https://modrinth.com/modpack/ta-explore)
