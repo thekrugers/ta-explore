@@ -1,7 +1,7 @@
 # T&A Explore
 T&amp;A Explore is a Fabric mod loader based modpack for Minecraft 1.19.2 with mainly exploration type content mixed with some automation stuff like Create 0.5.1 and Botany Pots.
 
-The "boss" of this pack is my 10-year-old child, who does quite a bit role-play type stuff on it and who is a much better builder than I am.
+The "boss" of this pack is my 10-year-old child, who does quite a bit of role-play type stuff on it, and who is a much better builder than I am.
 
 Currently, this Github project exists purely so we can have an issue tracker. We may start putting the actual modpack stuff on here soon.
 
@@ -16,7 +16,7 @@ In cases (well, one at the moment, and I see there is now a modified version on 
 
 Our links
 * [Modrinth page](https://modrinth.com/modpack/ta-explore)
-* [Youtube](https://modrinth.com/modpack/ta-explore)
+* [Youtube](https://youtube.com/@AndyK1970)
 * [Mastodon](https://mastodon.online/@AndyK1970)
 
 The following mods require links back to their Curseforge page for licensing purposes:
